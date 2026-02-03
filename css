@@ -11,8 +11,8 @@ body {
   border-radius: 10px;
 }
 .section img.zoom {
-  width: 600px;
-  height: 400px;
+  width: 200px;
+  height: 100px;
 }
 img {
   border: 5px solid red;
